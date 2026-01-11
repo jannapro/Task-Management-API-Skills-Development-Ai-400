@@ -19,3 +19,6 @@ A collection of hands-on skills for students to explore and practice when learni
 | **skill-validator** | Validate any skill against production-level quality criteria. 7 weighted criteria, 0-100 scoring, actionable feedback with prioritized recommendations |
 | **theme-factory** | Toolkit for styling artifacts (slides, docs, reports, HTML) with 10 pre-set professional themes or custom on-the-fly theme generation |
 | **xlsx** | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization |
+### Demo Video
+![Demo Video](videos/demo.mp4)
+
