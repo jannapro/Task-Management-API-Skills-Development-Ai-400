@@ -20,5 +20,5 @@ A collection of hands-on skills for students to explore and practice when learni
 | **theme-factory** | Toolkit for styling artifacts (slides, docs, reports, HTML) with 10 pre-set professional themes or custom on-the-fly theme generation |
 | **xlsx** | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization |
 ### Demo Video
-![Demo Video](videos/demo.mp4)
+![Demo Video](https://www.youtube.com/watch?v=K5i91TCMRUc)
 
